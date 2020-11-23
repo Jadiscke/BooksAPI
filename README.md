@@ -16,5 +16,6 @@ Swagger is on Route api/swagger
 - [ ] Dockerize project
 - [ ] Create Test Setup
 - [ ] Add Linter and Prettier
+- [x] Swagger Setup
 - [ ] Swagger
 - [ ] personal-key for requests
