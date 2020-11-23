@@ -1,3 +1,3 @@
 # BooksAPI
 
-BooksAPI It's a Personal Project for seaching books online and finding prices in amazon and google books.
+BooksAPI It's a Personal Project for searching books online and finding prices in amazon and google books.
