@@ -5,9 +5,11 @@ BooksAPI It's a Personal Project for searching books online and finding prices i
 
 ## Developing
 
-Use `yarn install` or `npm install` for installing dependencies
+Use `yarn install` or `npm install` for installing dependencies.
 
-Use `yarn star` pr `npm start` for running the server
+Use `yarn start` or `npm start` for running the server.
+
+Use `yarn develop` or `npm run start` for running the serve in development mode.
 ## Swagger
 
 Swagger is on Route api/swagger
