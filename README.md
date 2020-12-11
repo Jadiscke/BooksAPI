@@ -9,7 +9,7 @@ Use `yarn install` or `npm install` for installing dependencies.
 
 Use `yarn start` or `npm start` for running the server.
 
-Use `yarn develop` or `npm run start` for running the serve in development mode.
+Use `yarn develop` or `npm run develop` for running the serve in development mode.
 ## Swagger
 
 Swagger is on Route api/swagger
